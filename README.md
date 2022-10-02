@@ -15,6 +15,4 @@
 
 <br/>
 
-<a href="https://github.com/RutujaPRane/github-readme-activity-graph"><img alt="Rutuja's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RutujaPRane&bg_color=0D1117&color=86EFAC&line=86EFAC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
