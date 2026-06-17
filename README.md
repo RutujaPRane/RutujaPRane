@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rutuja Rane</h1>
 <h3 align="center">A passionate FullStack Web Developer</h3>
 
-- 🌱 I’m currently learning **SpringBoot**
-
 - 📫 How to reach me **rutujaprane1701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
